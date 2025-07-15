@@ -18,7 +18,7 @@ Coming from a background in supply chain and customer service, I bring:
 - Analytical thinking (demand forecasting, data interpretation)
 - Resilience, resourcefulness, and a bias for execution
 
-These skills transfer. Now I’m backing them with technical depth.
+These skills transfer. Now I’m backing them with technical depth!
 
 ---
 
@@ -26,7 +26,7 @@ These skills transfer. Now I’m backing them with technical depth.
 Land an IT Support or Help Desk role by Q1 2026. My technical roadmap includes:
 
 - ✅ Google IT Support Certificate *(in progress)*
-- 🎯 CompTIA Network+ *(certification target: [insert date])*
+- 🎯 CompTIA Network+ *(certification target: [Q4 2025])*
 - ☁️ AZ-900 (Azure Fundamentals)
 - 📘 ITILv4 Foundations
 - 🔁 PowerShell scripting, Active Directory, networking, MDM, and more
@@ -59,7 +59,7 @@ Azure identity management, SSO, RBAC, conditional access
 
 ## 📚 Current Commit Rhythm
 
-You’ll see consistent contributions every day or every other day. Everything is tracked — labs, scripts, progress, even the rough edges.
+You’ll see consistent contributions every other day and weekly. Everything is tracked from labs, scripts, progress, to even the rough edges.
 
 ---
 
@@ -68,7 +68,7 @@ You’ll see consistent contributions every day or every other day. Everything i
 - ✅ Documented labs, not just code dumps
 - 📁 Clean folder structure
 - 🧪 Simulated tickets and real-world scenarios
-- 💡 Notes, observations, failures, and fixes — not just the polished stuff
+- 💡 Notes, observations, failures, and fixes; not just the polished stuff!
 
 ---
 
